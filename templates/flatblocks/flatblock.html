@@ -1,0 +1,9 @@
+{% load frontendadmin_tags %}
+<div class="flatblock block-{{ flatblock.slug }}">
+{% if flatblock.header %}
+<h1 class="title">{{ flatblock.header }}</h1>
+{% endif %}
+{% frontendadmin_change flatblock %}
+    <div class="content">{{ flatblock.content|safe }}</div>
+
+</div>

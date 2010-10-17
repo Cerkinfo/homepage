@@ -1,0 +1,27 @@
+{%extends "base.html" %}
+{% load flatblock_tags %}
+{% load frontendadmin_tags %}
+
+{% block title %} PVs {% endblock %}
+
+{% block content %}
+
+{% flatblock "pv.info" %}
+{% if object_list %}
+    <div id="pvlist">
+    {% frontendadmin_add object_list 'Ajouter un pv' %}
+    {% regroup object_list by year as grouped_pv %}
+    {% for pv_group in grouped_pv %}
+    <h2>{{ pv_group.grouper }} </h2>
+        <ul>
+        {% for pv in pv_group.list %}
+            <li><a href="{{ pv.pvfile.url }}">{{ pv }}</a>
+            ({{ pv.pvfile.size|filesizeformat }} ) {% frontendadmin_change pv %}</li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+    </div>
+{% else %}
+    <p>Pas de PVs disponible, ceci est un bug.</p>
+{% endif %}
+{% endblock %}

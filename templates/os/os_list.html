@@ -1,0 +1,26 @@
+{%extends "base.html" %}
+{% load flatblock_tags %}
+{% load frontendadmin_tags %}
+
+{% block title %} OSs {% endblock %}
+
+{% block content %}
+{% flatblock "os.info" %}
+{% frontendadmin_change "myblock" %} 
+{% if object_list %}
+    <div id="pvlist">
+    {% frontendadmin_add object_list 'Ajouter un os' %}
+    {% regroup object_list by comiteyear as grouped_os %}
+    {% for os_group in grouped_os %}
+    <h2>{{ os_group.grouper }} </h2>
+        <ul>
+            {% for object in os_group.list %}
+            <li><a href="{{ object.fileobj.url }}">{{object.numero}}. {{ object.title }}</a> ({{ object.fileobj.size|filesizeformat }} ) {% frontendadmin_change object%}</li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+    </div>
+{% else %}
+        <p>Pas d'OS disponible, ceci est un bug.</p>
+{% endif %}
+{% endblock %}

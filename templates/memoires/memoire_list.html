@@ -1,0 +1,25 @@
+{%extends "base.html" %}
+{% load flatblock_tags %}
+{% load phpbb %}
+
+{% block title %} Memoires {% endblock %}
+
+{% block content %}
+
+{% flatblock "memoire.info" %}
+{% if object_list %}
+    <div id="pvlist">
+    {% regroup object_list by year as grouped_objects %}
+    {% for object_group in grouped_objects %}
+    <h2>{{ object_group.grouper }} </h2>
+        <ul>
+        {% for object in object_group.list %}
+        <li><a href="{{ object.fileobj.url }}">{{ object.subject }}</a> par {{ object.author }} ({{ object.fileobj.size|filesizeformat }} )</li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+    </div>
+{% else %}
+        <p>Pas de Memoire disponibles.</p>
+{% endif %}
+{% endblock %}
