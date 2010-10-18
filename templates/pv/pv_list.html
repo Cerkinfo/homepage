@@ -12,7 +12,7 @@
     {% frontendadmin_add object_list 'Ajouter un pv' %}
     {% regroup object_list by year as grouped_pv %}
     {% for pv_group in grouped_pv %}
-    <h2>{{ pv_group.grouper }} </h2>
+    <h3>{{ pv_group.grouper }} </h3>
         <ul>
         {% for pv in pv_group.list %}
             <li><a href="{{ pv.pvfile.url }}">{{ pv }}</a>
