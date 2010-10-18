@@ -1,0 +1,22 @@
+#topmenu_conteneur {
+	position:relative;
+	top:-147px;
+}
+
+#topmenu_conteneur_droite {
+	position:relative;
+	top:0px;
+}
+
+#topmenu ul{
+}
+
+#content {
+	position:relative;
+	top:-135px;
+}
+
+#footer {
+	top:-8px;
+}
+

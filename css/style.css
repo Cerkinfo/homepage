@@ -1,0 +1,264 @@
+tt, pre, code { font-size: 1.25em; }
+img { border:0; }
+
+html {
+	background:#CCCCCC;
+}
+
+body {
+	font: 0.75em Verdana, Arial, sans-serif;
+	color: #000;
+	margin: 0 2em;
+}
+
+a {
+	text-decoration: underline;
+	color:#8A116D;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:#666666;
+}
+
+input {	border: 1px solid #666; }
+input[type="submit"] { background-color:#fff; color: #777; }
+input[type="password"], input[type="text"], textarea { background: #ededed; border-width: 1px; }
+
+h2 {
+	text-align: center;
+	letter-spacing: 0.07em;
+	margin-bottom: 1em;
+	font-size: 1.7em;
+	color: white;
+	background: #770174;
+}
+
+h3 {
+	letter-spacing: 0.07em;
+	margin: 0;
+	font-size: 1.2em;
+	color:#8A116D;
+}
+
+
+table  {margin: auto }
+table tr { text-align: center; vertical-align: top; }
+table h3 { border-bottom: 0; }
+
+div.editbutton { float: right }
+
+/***********
+ * SIDEBAR *
+ ***********/
+#sidebar {
+	float:left;
+	clear:left;
+	width: 170px;
+	margin-top:-14px;
+}
+
+/********
+ * MENU *
+ ********/
+#menu h3 {
+	margin:0;
+	line-height:29px;
+	color:#ffffff;
+	border: 1px solid #8A116D;
+	background: url("/site_media/imgs/bg_mauve.jpg") repeat-x;
+	padding-left:7px;
+	}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color:#FFFFFF;
+	}
+	
+#menu li{
+	margin:0;
+	padding:0;
+	line-height:26px;
+	list-style-type:none;
+	text-align: left;
+	border-left:1px solid #8A116D;
+	border-right:1px solid #8A116D;
+	font-weight:bold;
+}
+#menu li a{
+	padding:0 7px;
+	display:block;
+	color:#000000;
+	text-decoration:none;
+}
+
+#menu li a:hover{
+	text-decoration:none;
+	color:#8A116D;
+	background:url("/site_media/imgs/fleche_menu.png") no-repeat right;
+	background-color:#e6e6e6;
+}
+
+#logo{
+	margin-bottom:1em;
+}
+
+#last_menu{
+	border-bottom: 1px solid #8A116D;
+}
+
+/***********
+ * TOPMENU *
+ ***********/
+#topmenu_conteneur {
+	padding:0;
+	margin:0;
+	position:relative;
+	top:-173px;
+	background:url("/site_media/imgs/banniere_cerkinfo.png") no-repeat;
+	background-position:-170px;
+	height:147px;
+}
+
+#topmenu_conteneur_droite {
+	padding:0;
+	margin:0;
+	position:relative;
+	top:-14px;
+	background:url("/site_media/imgs/fin_banniere_cerkinfo.jpg") no-repeat;
+	background-position:right;
+	background-color:#19090D;
+	height:147px;
+}
+
+#topmenu ul{
+	background:#ffffff;
+	line-height:36px;
+	position:relative;
+	top:97px;
+	border:1px solid #909090;
+	border-left:none;
+	z-index:15;
+	padding-left:254px;
+}
+
+#topmenu li {
+	display:inline;
+	list-style-type:none;
+	border:0;
+	padding: 0;
+	margin: 0;
+}
+
+#topmenu a {
+	color: black;
+	font-weight:bold;
+	font-size:1.1em;
+	text-decoration: none;
+	border:1px solid #999;
+	padding:5px 7px;
+	background:url("/site_media/imgs/bg_silver.jpg") repeat-x;
+}
+
+#topmenu a:hover{
+	color: #fff;
+	background:url("/site_media/imgs/bg_mauve.jpg") repeat-x;
+}
+
+/*******
+* MAIN *
+********/
+#main {
+    margin-left: 170px;
+	margin-top:16px;
+}
+
+#content {
+	margin:0px 8px 0 10px;
+	position:relative;
+	top:-159px;
+	padding: 0 0 10px 0;
+	text-align:left;
+	border: 1px solid #999;
+	background:#fff;
+}
+#content h2 {
+	text-align: left;
+	margin: 0;
+	padding: 0 0 0 7px;
+	font-size:1.1em;
+	line-height:30px;
+	color: #000;
+	border-bottom:1px solid #999;
+	background:url("/site_media/imgs/bg_silver.jpg") repeat-x;
+}
+#content h2 a, #content h2 a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+.info { color:red; }
+
+#pvlist{
+	margin:10px;
+}
+
+/*******
+* NEWS *
+*******/
+.news {
+	padding:10px;
+	margin:8px;
+	background-color:#F0F0F0;
+	}
+	
+.newsheader {
+	margin:0;
+	font-size: 1em;
+	border-bottom: 1px solid #8A116D;
+	padding:7px 0;
+	text-align: right;
+}
+
+.newstext {
+	padding: 10px;
+}
+
+.newsbottom {
+	padding: 10px;
+	text-align: right;
+	border-top: 1px solid #8A116D;
+}
+
+.news h3 {
+	letter-spacing: 0.07em;
+	margin: 0;
+	font-size: 1.2em;
+	color:#8A116D;
+}
+
+/*********
+* FOOTER *
+*********/
+#footer {
+	clear: both;
+	position:relative;
+	top:8px;
+	text-align: center;
+	margin: 0 8px 16px 0;
+	background-color:#8A116D;
+}
+#powered ul { padding: 7px 0 0 0;}
+#powered ul li {
+	display:inline;
+	list-style-type:none;
+	padding:0 0.50em 0 0.50em;
+}
+#footer p{
+	color:#fff;
+	margin:0;
+	padding:0 0 7px 0;
+}
+
