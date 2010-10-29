@@ -8,7 +8,7 @@ html {
 body {
 	font: 0.75em Verdana, Arial, sans-serif;
 	color: #000;
-	margin: 0 2em;
+	margin: 1em 2em;
 }
 
 a {
@@ -41,6 +41,9 @@ h3 {
 	color:#8A116D;
 }
 
+p{
+	padding: 0 20px;
+}
 
 table  {margin: auto }
 table tr { text-align: center; vertical-align: top; }
@@ -48,19 +51,17 @@ table h3 { border-bottom: 0; }
 
 div.editbutton { float: right }
 
-/***********
- * SIDEBAR *
- ***********/
-#sidebar {
-	float:left;
-	clear:left;
-	width: 170px;
-	margin-top:-14px;
-}
-
 /********
  * MENU *
  ********/
+#menu{
+	float:left;
+	clear:left;
+	width: 170px;
+	position:relative;
+	top:-135px;
+}
+
 #menu h3 {
 	margin:0;
 	line-height:29px;
@@ -101,10 +102,6 @@ div.editbutton { float: right }
 	background-color:#e6e6e6;
 }
 
-#logo{
-	margin-bottom:1em;
-}
-
 #last_menu{
 	border-bottom: 1px solid #8A116D;
 }
@@ -112,21 +109,32 @@ div.editbutton { float: right }
 /***********
  * TOPMENU *
  ***********/
+#header{
+	margin:0;
+} 
+ 
 #topmenu_conteneur {
 	padding:0;
 	margin:0;
 	position:relative;
-	top:-173px;
-	background:url("/site_media/imgs/banniere_cerkinfo.png") no-repeat;
-	background-position:-170px;
+	top:-147px;
+	background:url("/site_media/imgs/banniere_cerkinfo.jpg") no-repeat;
 	height:147px;
+}
+
+#topmenu_conteneur p{
+	padding:0;
+	margin:0;
+	font-size: 30px;
+	color:#fff;
+	margin-left:200px;
+	padding-top:30px;
+	text-align:center;
 }
 
 #topmenu_conteneur_droite {
 	padding:0;
 	margin:0;
-	position:relative;
-	top:-14px;
 	background:url("/site_media/imgs/fin_banniere_cerkinfo.jpg") no-repeat;
 	background-position:right;
 	background-color:#19090D;
@@ -137,11 +145,11 @@ div.editbutton { float: right }
 	background:#ffffff;
 	line-height:36px;
 	position:relative;
-	top:97px;
+	top:19px;
 	border:1px solid #909090;
-	border-left:none;
 	z-index:15;
-	padding-left:254px;
+	text-align:center;
+	margin-left:180px;
 }
 
 #topmenu li {
@@ -158,7 +166,7 @@ div.editbutton { float: right }
 	font-size:1.1em;
 	text-decoration: none;
 	border:1px solid #999;
-	padding:5px 27px;
+	padding:5px 37px;
 	background:url("/site_media/imgs/bg_silver.jpg") repeat-x;
 }
 
@@ -170,15 +178,10 @@ div.editbutton { float: right }
 /*******
 * MAIN *
 ********/
-#main {
-    margin-left: 170px;
-	margin-top:16px;
-}
-
 #content {
-	margin:0px 8px 0 10px;
+	margin:0 8px 0 180px;
 	position:relative;
-	top:-159px;
+	top:-135px;
 	padding: 0 0 10px 0;
 	text-align:left;
 	border: 1px solid #999;
@@ -210,7 +213,7 @@ div.editbutton { float: right }
 *******/
 .news {
 	padding:10px;
-	margin:8px;
+	margin:15px 25px;
 	background-color:#F0F0F0;
 	}
 	
@@ -245,7 +248,7 @@ div.editbutton { float: right }
 #footer {
 	clear: both;
 	position:relative;
-	top:8px;
+	top:-123px;
 	text-align: center;
 	margin: 0 8px 16px 0;
 	background-color:#8A116D;

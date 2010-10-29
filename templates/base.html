@@ -37,8 +37,22 @@
 
 </head>
 <body>
-    <div id="sidebar">
-        <div id="logo"><a href="/"><img src="/site_media/imgs/logo_cerkinfo.png" alt="CI logo" /></a></div>
+
+    <div id="header">
+        <div id="topmenu_conteneur_droite"></div>
+        <div id="topmenu_conteneur">
+            <p>Cercle Informatique</p>
+            <div id="topmenu">
+            <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="http://drama/phpbb">Forum</a></li>
+            <li><a href="#contact">Photos</a></li>
+            <li><a href="#about">Wiki</a></li>
+            </ul>
+            </div>
+        </div>
+    </div>
+
         <div id="menu">
             <h3>Cercle</h3>
             <ul>
@@ -77,26 +91,14 @@
             <ul>
                 <li><a href="#bapteme">Bapteme</a></li>
                 <li><a href="#bapteme-comite">Comité de bapteme</a></li>
-                <li id="last_menu"><a href="#Divers">Divers</a></li>
+                <li id="last_menu"><a href="/folklore-divers/">Divers</a></li>
             </ul>
         </div>
-    </div>
-    <div id="main">
-        <div id="topmenu_conteneur_droite"></div>
-        <div id="topmenu_conteneur">
-            <div id="topmenu">
-            <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#news">Forum</a></li>
-            <li><a href="#contact">Photos</a></li>
-            <li><a href="#about">Wiki</a></li>
-            </ul>
-            </div>
-        </div>
+
         <div id="content">
             {% block content %}{% endblock %}
         </div>
-     </div>
+
      <div id="footer">
           <div id="powered">
             <ul>
@@ -107,7 +109,8 @@
             </ul>
           </div>
           <p>Copyright 2010 - Cercle Informatique</p>
-        </div>
+     </div>
+
 </body>
 </html>
 
