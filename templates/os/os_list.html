@@ -6,10 +6,10 @@
 
 {% block content %}
 {% flatblock "os.info" %}
-{% frontendadmin_change "myblock" %} 
 {% if object_list %}
     <div id="pvlist">
     {% frontendadmin_add object_list 'Ajouter un os' %}
+   <br />
     {% regroup object_list by comiteyear as grouped_os %}
     {% for os_group in grouped_os %}
     <h2>{{ os_group.grouper }} </h2>
