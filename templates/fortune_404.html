@@ -1,0 +1,13 @@
+{%extends "base.html" %}
+{% block content %}
+<h1>Pas non trouvée</h1>
+<p>
+Si vous avez suivi un lien du site menant vers cette page merci de contacter le <a href="mailto:webmaster@cerkinfo.be">webmaster</a>.
+</p>
+
+{% if object %}
+<div class="fortune">
+{{ object.text|linebreaks}}
+</div>
+{% endif %}
+{% endblock %}
