@@ -80,7 +80,6 @@
             <ul>
                 <li><a href="/cours/">Vente de syllabus</a></li>
                 <li><a href="/memoires/">Memoires</a></li>
-                <li><a href="#">Travaux de BA</a></li>
             </ul>
             <h3>Info</h3>
             <ul>
@@ -93,7 +92,15 @@
             <ul>
                 <li><a href="/bapteme/">Bapteme</a></li>
                 <li><a href="#bapteme-comite">Comité de bapteme</a></li>
-                <li id="last_menu"><a href="/folklore-divers/">Divers</a></li>
+                <li><a href="/folklore-divers/">Divers</a></li>
+            </ul>
+            <h3>Authentification</h3>
+            <ul>
+                {% if not user.is_authenticated %}
+                <li id="last_menu"><a href="/accounts/login?next={{request.path}}">Login</a></li>
+                {% else %}
+                <li id="last_menu"><a href="/accounts/logout?next={{request.path}}">Logout</a></li>
+                {% endif %}
             </ul>
         </div>
 
