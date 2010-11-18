@@ -1,0 +1,25 @@
+{%extends "base.html" %}
+{% load flatblock_tags %}
+{% load frontendadmin_tags %}
+{% load paginator %}
+
+
+{% block title %} Fortunes {% endblock %}
+
+{% block content %}
+{% flatblock "fortunes.info" %}
+{% if object_list %}
+    {% frontendadmin_add object_list 'Ajouter une fortune' %}
+     <br />
+    {% for object in object_list %}
+     <div class="fortune">
+    {{ object.text|linebreaksbr }}
+     </div>
+    <p style="text-align:right">{% frontendadmin_change object 'Modifier' %}</p>
+    <hr />
+    {% endfor %}
+    {% if is_paginated %}<div class="paginator">{% paginator %}</div>{% endif %}
+{% else %}
+        <p>Pas de fortunes :(</p>
+{% endif %}
+{% endblock %}
