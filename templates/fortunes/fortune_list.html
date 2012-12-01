@@ -8,15 +8,18 @@
 
 {% block content %}
 {% flatblock "fortunes.info" %}
-{% if object_list %}
     {% frontendadmin_add object_list 'Ajouter une fortune' %}
+{% if object_list %}
      <br />
     {% for object in object_list %}
-     <div class="fortune">
-    {{ object.text|linebreaksbr }}
-     </div>
-    <p style="text-align:right">{% frontendadmin_change object 'Modifier' %}</p>
-    <hr />
+	     <div class="fortune">
+	    {{ object.text|linebreaksbr }}
+	     </div>
+	    <p style="text-align:right">
+		<a href=/fortunes/{{ object.id }}>Lien</a>
+		{% frontendadmin_change object 'Modifier' %}
+	    </p>
+	    <hr />
     {% endfor %}
     {% if is_paginated %}<div class="paginator">{% paginator %}</div>{% endif %}
 {% else %}

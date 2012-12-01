@@ -1,0 +1,23 @@
+{%extends "test-base.html" %}
+{% load phpbb %}
+{% load flatblock_tags %}
+
+{% block title %} News {% endblock %}
+
+{% block content %}
+{% flatblock "news.info" %}
+{% if object_list %}
+    {% for topic in object_list %}
+        <div class="news">
+            <h1><a href="{{ topic.topic_first_post.get_external_url }}">{{ topic }}</a></h1>
+            <p class="newstext">{{topic.topic_first_post.post_text|safe|bbcode}}<p>
+	    <div class="newsbottom">
+<!--            <div class="newsauthor">par {{topic.topic_poster }} le {{topic.topic_time}}</div>-->
+            <div class="newscomment"><a href="{{ topic.topic_first_post.get_external_url }}">{{topic.topic_replies}} commentaires</a></div>
+	    </div>
+        </div>
+    {% endfor %}
+{% else %}
+    <p>Pas de news à afficher, ceci est un bug.</p>
+{% endif %}
+{% endblock %}

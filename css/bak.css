@@ -195,10 +195,10 @@ div.editbutton { float: right }
 * MAIN *
 ********/
 #content {
-	margin:0 8px 0 180px;
+	margin:0 0px 0 180px;
 	position:relative;
 	top:-135px;
-	padding: 0 0 30px 5px;
+	padding: 0 0 0px 0px;
 	text-align:left;
 	border: 1px solid #999;
 	background:#fff;
@@ -229,11 +229,63 @@ div.editbutton { float: right }
 * NEWS *
 *******/
 .news {
-	padding:10px;
-	margin:15px 25px;
+	margin:15px 15px;
 	background-color:#F0F0F0;
+	border-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome */
 	}
-	
+
+
+h1{
+background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.02, rgb(240,240,240)),
+    color-stop(0.25, rgb(199,197,197))
+);
+background-image: -moz-linear-gradient(
+    center bottom,
+    rgb(240,240,240) 02%,
+    rgb(199,197,197) 25%
+);
+	margin:0;
+	padding: 00px 00px 00px 20px;
+	font-size:2em;
+	line-height:2.5em;
+	background-color:#9f9b9b;
+	font-family: 'Ubuntu', arial, serif;
+}
+
+.news a {
+	text-decoration: none;
+	color: #262526;
+}
+
+.news h1{	
+	text-align: left;
+	padding: 00px 00px 00px 20px;
+	font-size:1.5em;
+	line-height:2em;
+/*	background:url("/site_media/imgs/bg_silver.jpg") repeat;*/
+	border-top-left-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome */
+	border-top-right-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome */
+/*	text-shadow: black 1px 1px;*/
+
+background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.02, rgb(240,240,240)),
+    color-stop(0.25, rgb(199,197,197))
+);
+background-image: -moz-linear-gradient(
+    center bottom,
+    rgb(240,240,240) 02%,
+    rgb(199,197,197) 25%
+);
+
+	}
+
 .newsheader {
 	margin:0;
 	font-size: 1em;
@@ -242,14 +294,34 @@ div.editbutton { float: right }
 	text-align: right;
 }
 
-.newstext {
-	padding: 10px;
-}
 
 .newsbottom {
-	padding: 10px;
+	border-bottom-left-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome */
+	border-bottom-right-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome */
+/*	background-color:#c7c5c5;*/
 	text-align: right;
-	border-top: 1px solid #8A116D;
+	padding: 10px;
+background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.34, rgb(199,197,197)),
+    color-stop(0.99, rgb(240,240,240))
+);
+background-image: -moz-linear-gradient(
+    center bottom,
+    rgb(199,197,197) 34%,
+    rgb(240,240,240) 99%
+);
+}
+
+.newsauthor {
+text-align:left;
+font-family:ubuntu;
+}
+.newsbottom a {
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .news h3 {

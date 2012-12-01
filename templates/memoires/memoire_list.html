@@ -1,5 +1,6 @@
 {%extends "base.html" %}
 {% load flatblock_tags %}
+{% load frontendadmin_tags %}
 {% load phpbb %}
 
 {% block title %} Memoires {% endblock %}
@@ -8,18 +9,18 @@
 
 {% flatblock "memoire.info" %}
 {% if object_list %}
+    {% frontendadmin_add object_list 'Ajouter un memoire' %}
     <div id="pvlist">
     {% regroup object_list by year as grouped_objects %}
     {% for object_group in grouped_objects %}
-    <h2>{{ object_group.grouper }} </h2>
+    <h2 class="reset">{{ object_group.grouper }} </h2>
         <ul>
         {% for object in object_group.list %}
         <li><a href="{{ object.fileobj.url }}">{{ object.subject }}</a> par {{ object.author }} ({{ object.fileobj.size|filesizeformat }} )</li>
+	 <p style="text-align:right"> {% frontendadmin_change object 'Modifier' %}</p>
         {% endfor %}
         </ul>
     {% endfor %}
     </div>
-{% else %}
-        <p>Pas de Memoire disponibles.</p>
 {% endif %}
 {% endblock %}

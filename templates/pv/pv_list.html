@@ -1,4 +1,5 @@
 {%extends "base.html" %}
+{% load comiteyear %}
 {% load flatblock_tags %}
 {% load frontendadmin_tags %}
 
@@ -12,7 +13,7 @@
     {% frontendadmin_add object_list 'Ajouter un pv' %}
     {% regroup object_list by year as grouped_pv %}
     {% for pv_group in grouped_pv %}
-    <h3>{{ pv_group.grouper }} </h3>
+    <h3>{{ pv_group.grouper|niceyears }} </h3>
         <ul>
         {% for pv in pv_group.list %}
             <li><a href="{{ pv.pvfile.url }}">{{ pv }}</a>

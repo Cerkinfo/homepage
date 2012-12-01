@@ -1,0 +1,14 @@
+{%extends "base.html" %}
+{% load flatblock_tags %}
+{% load frontendadmin_tags %}
+
+
+{% block title %} Fortunes {% endblock %}
+
+{% block content %}
+{% flatblock "fortunes.info" %}
+     <div class="fortune">
+    {{ object.text|linebreaksbr }}
+     </div>
+    <p style="text-align:right">{% frontendadmin_change object 'Modifier' %}</p>
+{% endblock %}

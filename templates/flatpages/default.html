@@ -2,12 +2,28 @@
 {% load frontendadmin_tags %}
 
 {% block extra_header %}
+<script type="text/javascript" src="/media/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/media/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<link rel="stylesheet" href="/media/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+<script type="text/javascript">
+
+$(document).ready(function() {
+	$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif'],a[href$='.JPG']").attr('rel','gallery').fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',	
+	});
+	
+})
+</script>
+
 {% endblock %}
 
 {% block title %}{{ flatpage.title }}{% endblock %}
 
 {% block content %}
+<div id="article">
 {{ flatpage.content }}
+</div>
 {% frontendadmin_change flatpage "Editer la page" %}
 {% endblock %}
 

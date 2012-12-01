@@ -1,0 +1,1346 @@
+%
+
+<fredoule> c'est quoi un fortune ???
+<cassidy> fredoule: beaucoup d'argent
+
+%
+
+<bigon> c'est pas dur a faire avec sqlite
+<twolife> bigon vasy je te regarde
+<bigon> :p j'ai autre chose a faire, je mange du chocolat
+
+%
+
+<Burton> raa jsuis pas encore un vrai geek, jconnais rien de tout ca :o
+<twolife> Burton: long est le chemin qui mène à l'autisme jeune padawan ^_^
+
+%
+
+<cassidy> ATP: xchat suce
+<ATP> moi aussi
+
+%
+
+bigon peut parler
+<fredoule> bigon va faire aaaaaaaaaaaaAAAaaaaah
+
+%
+
+<Roooooony> ATP à l'aire saoul
+<ATP> presque pas
+<ATP> je veux pas etre trop caisse pour finir mon projet
+<ATP> ce matin je tremblais de manque
+<ATP> c'est a cause de vous et de votre putain de folklore
+
+%
+
+<Roooooony> putain ma chaussure pue telement que ca m'empeche de bosser
+<Roooooony> je vai aller mettre des charentheses
+
+%
+
+<St_B3000> au fait il est posible de transpormer deux boucle imbriuée en une fonction récurcive ?
+<St_B3000> *transphormer
+<ATP> transFormer
+<St_B3000> nan
+
+%
+
+<colruyt> et des gars cools compte y aller ?
+<cassidy> moi j y vais
+<colruyt> et comme gars cool ?
+
+%
+
+<Zdra> cassidy: je veux des logs en HTML avec les couleurs et une options pour demander de les enregistrer automatiquement... allé au boulo !!!
+<cassidy> et vous prendrez des frites avec ?
+
+%
+
+* colruyt est parti ("Il y a 2 choses que je ne supporte pas: le nazisme et xchat-gnome")
+
+%
+
+<cassidy> avec double on met au pluriel ?
+<cassidy> bon un exemple. "double anale" ou "double anales" ?
+<fredoule2k> double anale
+<fredoule2k> c'est _une_ double pénétration
+
+%
+
+<Burton_> http://www.abrutis.com/photos.php?id=320 ca va ya pire que le no2
+<Chaudard> Burton_:  c'est imfame
+<rony_> Burton_: MERCI MON OEUF EN CHOCOLAT A UN GOUT BEAUCOUP MOIN AGREABLE MNTNT
+<rony_> CONNARD
+
+%
+
+<bigon> pff je crois que je vais m'inscrire a des ML pour croire que j'ai des amis
+
+%
+
+<ATP> Roooooony, t es dans ta chambre ?
+<Roooooony> oui
+<Roooooony> allez vous faire foutre avec le café
+<Burton_> Roooooony, il fait soif, t'as pas un café pour moi?
+<ATP> ca sent pas trop le café ?
+
+%
+
+<cassidy> mais c'est peut être parce que "i want a pony"
+<gigoCI> i want a baudet
+
+%
+
+<ATP`> bah j me suce devant des p0rn normal
+<cassidy> quoté:  <ATP`> bah j me suce devant des p0rn normal
+<ATP`> cassidy tu aimes quote des conneries
+<ATP`> honnetement je te l ai offerte
+<ATP`> je savais que ca allait etre quoté
+<cassidy> ouais ouais
+<ATP`> cassidy> bah crois le ou pas, mais je me suce pas vraiment devant du p0rn... :P
+<ATP`> je fais ca devant Melrose Place... c est pas du p0rn
+
+%
+
+<cassidy> bon tant pis pour scons, pas le temps de bidouillé. Bourrinage : latex main && bibtex main1 && bibtex main2 && latex main && latex main && dvips main.dvi -o memoire.ps && ps2pdf memoire.ps
+<thx1138> de toute façon, sans latex t'es déjà mon ex
+
+%
+
+* colruyt est parti ("xchat-gnome finance le terrorisme")
+
+%
+
+<ren0> phase1:douche terminée, phase2:crème pour le coprs à la fleur de lotus enclenchée
+<cassidy> phase1:package compilé, phase2: patch, enclenchée
+<ren0> nous n'avons pas les mêmes valeurs
+<cassidy> sans doute oui
+
+%
+
+<cassidy> je parie que Roooooony n'a pas su contenir son envie d'alcool et est partit se saouler tout seul
+<ren0> c'est bien son genre
+<cassidy> avec son ami twolife l'ivrogne
+<ren0> twolife est une belle merde
+<fredoule> Roooooony et twolife c'est louche
+<twolife> et voilà, on part 5min et on te crache dessus dans ton dos....
+<ren0> astuce avec twolife : le convier au gauguin et enchainer les tournées de blanches pour l'empecher de mettre la sienne. résultat, 2h plus tard twolife est au bout de sa vie comme une merde avec 3 tournées a mettre
+<cassidy> lol :D
+<twolife> je vous affone bande de sous-merde :D
+<ren0> ca j'aimerai bien voir, 'fossile'
+<ren0> =D
+<fredoule> twolife> chiche
+<twolife> fredoule> chiche ? now ?
+<fredoule> twolife> j'ai des blanches dans le frigo
+<fredoule> tu peux aller en prendre une dans le tien
+<cassidy> twolife, fredoule: bon vous faites votre affond irc pathétique ?
+<ren0> aller, faites nous rire!
+<twolife> cassidy: pas mnt, je regarde la série que tu m'a passé
+<cassidy> comment ruiner un peu plus la vie sociale de twolife : filez lui une série !
+<twolife> ha parce que t'es fier en plus ? salaud !
+<fredoule> twolife> damned ma Blanche est versée
+<fredoule> bon twolife
+<twolife> voilà, bière versée, /me en attente :o
+<fredoule> twolife tu donne le signal pour que cassidy lance
+<twolife> moi c'est bon, j'attend le départ
+<cassidy> Santé !
+<cassidy> A main !
+<fredoule> santé
+<cassidy> A bouche !
+<cassidy> A CUL !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<fredoule> done
+<twolife> perdu
+<fredoule> twolife> merci *kiss*
+<fredoule> twolife> je pense qu'il va falloir archiver ça
+<fredoule> :)
+<twolife> c'était pathétique, fred je te remercie, on était déja au fond, et là on vient de creusé un peu plus
+<fredoule> ce fut un plaisir
+<twolife> (comptez pas sur moi pour mettre ça dans les fortunes)
+
+%
+
+[23:47:52] twolife: "help"
+[23:47:58] bigon: lol
+[23:48:10] bigon: qu'est ce qu'il y a?
+[23:48:33] twolife: je suis assis et je tiens plus debout
+[23:49:16] bigon: mdr
+
+%
+
+* Anais (i=www-data@cerkinfo.be) a rejoint #ci
+<Anais> salut
+<Anais> je suis a poil
+* Anais est parti (Client Quit)
+* Anais (i=www-data@cerkinfo.be) a rejoint #ci
+<ren0> ha la cochonne est de retour
+<Anais> tsss
+<ren0> bon et quoi anais ca t'excite de chatter avec des informaticiens alors que tu es toute nue devant ton PC?
+<Anais> mais allons
+<Anais> ce ne st meme pas moi qui ai voulu atterir ici
+<Anais> d ailleurs c est decidé guillaume ne mettra plus les mains sur le pc
+<ren0> sur ton pc non mais dieu sait dans quels autres endroit il va essayer de fourrer ses pattes
+<Anais> aaaaaaaaaaaaah
+<Anais> je ne veux rien savoir
+<ren0> votre étage ca fait un peu kot échangiste hardcore
+
+%
+
+<rony> aaaah
+<rony> je pisse dans mon froque!
+<rony> c'est super
+
+%
+
+<Roooooony> ya pas un tréma sur anaïs ?
+<Anais> si
+<cassidy> non, c'est comme dans anus, pas de tréma
+
+%
+
+<twolife> Anais: si te prononce l'acronyme "FTP" ça t'effraie ?
+<Anais> Fou Toi a Poil ????
+
+%
+
+* colruyt has quit IRC ("ubuntu est ancien mot africain signifiant mort à l'occident")
+
+%
+
+* colruyt has quit IRC ("xchat-gnome finance les essais nucléaires iraniens")
+
+%
+
+<-- Zdra_ a quitté ("Ex-Chat")
+<twolife> haaa enfin
+
+%
+
+<Burton_> alors tu devrais utiliser xchat-gnome qui a le correcteur orthographique intégré
+<BP_3000> pffff sa c'est pour les gens qui savant vraiment pas écrire , puis je fait aps confiance
+
+%
+
+<cassidy> twolife: t'as aussi pissé sur le vélo de Rony ? :D
+<twolife> cassidy: non non, je suis quelqu'un de bien moi :o
+<cassidy> t'as une idée de pq on a été faire ça ? :D
+<twolife> cassidy: aucune :o
+<cassidy> n'empèche on s'est bien foutu de sa geule avec son truc fluo
+<cassidy> et il roulait vraiment pas droit :D
+<twolife> :o
+<rony_> bande de gros con
+<rony_> si ma mere se plein que ca pue la pisse dans son bureau (là ou je range le vélo) et bien...
+<rony_> je vai beaucoup rire
+
+%
+
+<twolife> du sesque : http://www.flickr.com/photos/davisco/149972645/
+<staz_> twolife: espèce de Fredoule !
+<twolife> petite analyse:  je ne crois pas que le yorkshire se tape le lapin. Le caniche en revanche...
+
+%
+
+<ren0> touche ma bite! touche ma bite!
+<cassidy> ren0: ok ok, mais juste un peu alors
+
+%
+
+<ren0> mwé en tous cas j'aimerai pas regarder mon OS et me dire que ben laden et les iraniens utilisent le même
+
+%
+
+<-- colruyt a quitté ("linux utilise plus le processeur qu'un bon os et est donc responsable du réchauffement de la planète")
+
+%
+
+<bigon> je pense pas avoir violé qq1 sur place et je suis rentre entier a velo donc je suppose que c'est une bonne soiree
+
+%
+
+<reno> apparement j'ai appellé anorak aussi pour lui dire (a 4h du matin) :
+ "Jte téléphone pour te dire que j'ai envie de mettre ma bite dans le cul d'Anais et de la faire crier"
+
+%
+
+<bigon> personne ne veut donc aller se bourrer la gueule?
+
+%
+
+<bigon> ren0, va bosser
+<ren0> bigon, fais qque chose de ta vie
+
+%
+
+<colruyt> cassidy installe windows c'est gratuit
+<cassidy> colruyt: non
+<cassidy> Ma vie privée et mes valeurs éthiques ça fait déjà pas mal comme prix
+<Roooooony> t'as pas de vie privée, et niveau valeur je trouve que ce foutre à poile etre scandaleux à toute heur
+ et se gerber dessu en criant "c'est ca que tu veux" c'est pas terrible.
+<Roooooony> donc c'est gratuit
+
+%
+
+* ren0 va bouser
+<ren0> ce fut bon
+<fredoule2k> aaaaah la sensation de la crotte qui passe le sphincter mmmmmmmh
+
+%
+
+<Zdra> cassidy: j'ai l'impression que tu crois que windows est puissant
+
+%
+
+<colruyt> bigon: blanche et trou de balle
+
+%
+
+<fredoule> bon je dois faire la lavandière et laver les traces de freinage de mon pantalon de pyjama
+
+%
+
+<cassidy> lu
+<Zdra> c'est des biscuit ça
+<cassidy> en effet
+
+%
+
+<fredoule> ça fait bizarre d'être sobre
+
+%
+
+<BORI_> Ca sert a quoi IRC ?
+<BORI_> canard pingouin
+<staz_> a Idler
+<BORI_> cool
+
+%
+
+<bigon> tu as une classe pour les cv?
+<cassidy> staz_: j'ai mis ds expérience
+<cassidy> bigon: on m'en a filé un, je le modifie
+<bigon> tu sais me le filer?
+<cassidy> bigon: tu te met à la recherche d'un job ? :D
+<bigon> ca peux tjs servir
+
+%
+
+<colruyt> n'oubliez pas, cantus ce soir !
+
+%
+
+[05:34:57] Bigon: plop?
+[05:35:07] bram: plop ^^
+[05:35:13] Bigon: encore debout?
+[05:36:39] Bigon: moi je reviens du gauguin 
+[05:36:48] bram: lol ouai
+[05:36:53] bram: je suis un vrai geek >.<
+[05:37:04] Bigon: et moi un alcoolique
+[05:37:38] bram: dans les deux cas c'est un choix personnel ^^
+
+%
+
+[15:53:57] spacewalkah: j'aime bien gaim, pourquoi je changerais ?
+[15:54:35] Bigon: pcq c'est un bloatware qui implémante mal le proto jabber?
+[15:54:51] spacewalkah: aha quel troll
+[15:55:03] Bigon: de tout facon gnome va passer a gossip comme client IM officiel
+[15:55:04] spacewalkah: la fonctionnalité que j'utilise le plus c'est msn
+[15:55:10] spacewalkah: et ca fonctionne impec avec gaim
+[15:55:19] Bigon: moi j'ai pris comme résolution de ne plus me connecter a msn
+[15:55:33] spacewalkah: moi de continuer à avoir des amis 
+
+%
+
+<fred2k> le chan n'est pas qu'une devromm gnome
+<cassidy> oui, c'est aussi une board War3z
+
+%
+
+<Zdra> tout ce qui touche à l'impression est par définition buggé et ne marche pas
+<Zdra> depuis le 1er composant hardware jusqu'a la dernier ligne de software, rien ne marche
+
+%
+
+[17:42:47] <istaz> j'aurai passé la journée a jouer a la DS c'est pitoyable
+[17:43:52] <twolife> istaz: ha fuck... merci pour l'info. (et oui tu es pitoyable /o\ )
+[17:44:05] <twolife> mnt je sais ça, je prendrai pas de DS :p
+[17:45:37] <istaz> regarder des séries c'est mieux peut etre ? :p
+[17:46:28] <twolife> nettement
+[17:47:15] <twolife> mais mon échelle de valeur a sûrement besoin d'un recalibrage :o
+
+%
+
+<ren0> je ne voudrais surtout pas être malade pour le fosdem
+<cassidy> en effet
+<Zdra> ren0: t'as pas interret en effet !
+<cassidy> ce serait dommage de rater les belles conf
+<ren0> ouais à fond
+<ren0> ça se passe où les confs où on apprend à faire les cocktails molotov pour lancer sur les réunions du G8?
+
+%
+
+<iceman> dis, au fait, j'ai pas ton jabber
+<ren0> ca peut s'expliquer facilement
+<ren0> j'en ai pas
+
+%
+
+<twolife_esi> bande de cons !
+<twolife_esi> se réveillé dans son vomit ce n'est pas drôle
+
+%
+
+moi : Dis, la dernière fortune ça correspond à quelle soirée ?
+2vie: à ton avis ?
+2vie: j'ai dis ça se matin au TP
+moi: hahaha je suis très content d'avoir contribuer à ton enterrement :)
+2vie: pauvre con
+2vie: c'est vraiment pas drôle, mon gsm sonne, je me réveil en surprise, je me lève et paf je glisse dans ma gerbe à coté de mon lit. apres vérification, j'avais "repeint" mon lit et le sol cette nuit :/
+
+%
+
+<Roooooony> j'ai pissé dans un sceau cette nuit,
+<Roooooony> à coté de mon lit
+<Roooooony> et j'ai retrouvé mes clefs dans ce sceau ce matin.
+
+%
+
+<Roooooony> qqn m'a pisser dessu je crois.
+<bigon> dans les chaussure?
+<bigon> oui marc
+<bigon> tu t'en souviens pas?
+<Roooooony> mntnt que tu le dis
+<bigon> Roooooony: tu etais la, "arreter c'est mes chaussures de travail'
+
+%
+
+<fredoule> hé l'animal sous-humain qu'est Zdra vient d'arriver
+<Zdra> t'imagine meme pas ds quelle situation :p
+<dnz_> t'es core caisse Zdra ?
+<Burton_> Zdra: t'as de nouveau du ketchup plein ton slibard?
+<Zdra> lol du tout
+<fredoule> il est passé à la sauce samurai
+<fredoule> et le wasabi dans l'anus
+
+%
+
+<cassidy> Zdra: tu te serais pas trombé de chan ? :D
+<Zdra> cassidy: pt1 mais j'ai trop trop la honte quoi
+<cassidy> Zdra: bravo !
+<cassidy> surtout que burger et tester sont francophones
+<Zdra> pt1 je prie pour qu'ils aient pas de dico anglais/fr
+<cassidy> pour info, voila ce que Zdra m'envoit sur le chan de collabora
+<cassidy> "<Zdra> cassidy: stewb veut te sucer la bite"
+<Zdra> pfffff, je déménager au bengladesh
+<cassidy> ouais, tu peux te cacher là
+* Zdra est parti ("Ex-Chat")
+<cassidy> "<burger> cassidy: who's stewb ?"
+<cassidy> j'ai l'air malin moi mnt
+
+%
+
+< bernardu> @&#321;&#164;¶&#358;&#8592;&#358;&#8592;&#8595;&#8594;ØÞÞÆßÐ&#272;&#330;&#294;J&#312;&#321;»¢&#8220;&#8221;N
+< john_> ton orthographe est décidément de pire en pire bernardu
+
+%
+
+<stewball> ryh§t
+* stewball est parti ("Ex-Chat")
+<Zdra> fortune !!!
+<fred2kboulot> j'approuve
+<fred2kboulot> stewball s'est endormi sur son clavier
+<Roooooony> si on regarde la position des touches sur le clavier ca pourait bien correspondre à un toup de son marteau sur le dit clavier
+<Roooooony> coup*
+
+%
+
+<Burton_> dnz_: le w3r4z saymal
+<dnz_> bof
+<twolife> Burton_: mais non c'est super, comment je ferais pour regarder mes séries si y avait pas tous ces gens
+<cassidy> s/ces gens/twolife
+<Burton_> s/ces gens/twolife
+
+%
+
+<ren0> istaz, jalou!
+<Burton_> ren0: crève !
+<ren0> =D
+* twolife ne sais pas pourquoi, mais oui ren0 peut crever /o\
+<ren0> c'est qd meme super d'avoir trouvé une copine jolie, bien foutue, fêtarde, alcoolique et intelligente et drole
+<ren0> d'un coté je sais pas si il y a un rapport mais je fais pas linux
+<twolife> va chié :o
+<dnz_> soyez pas jaloux un jour viendra
+<Burton_> dnz_: crève aussi
+<dnz_> istaz t'as acheté ou ta console ?
+
+%
+
+[19:28:52] Bram [CI]:  t'as des sites avec des chevaux/poney/mullet en erection ?
+[19:30:45] burton_ci: hahah
+[19:30:54] burton_ci: nan désolé jsais pas t'aider, jfais pas dans le zoophile
+[19:31:00] burton_ci: demande à fredoule, il a peut etre ca
+(...)
+[19:35:29] Bram [CI]: [19:23:46] <Bram> t'as des sites avec des chevaux/poney/mullet en erection ?
+[19:29:45] <Two-Life> i'm not fred !!!
+
+%
+
+* cassidy vient de faire quelque chose qu'il n'a plus fait depuis bien longtemps
+<cassidy> utiliser... un goto !!!
+
+%
+
+<fredoule> tiens je viens de tomber sur la vid où une femme recrache du sperme de cheval à cause de la force du jet
+
+%
+
+<rony_> vive le Wifi :(
+<rony_> c'est vraiment la roulette russe des connections, tu sais jamais quand elle va te peter à la geule
+<cassidy> :D
+* dnz_ est parti (Read error: 60 (Operation timed out))
+<rony_> [10:06:02] * dnz_ a quitté le réseau (Read error: 60 (Operation timed out))
+<rony_> surement son wifi
+
+%
+
+< roooony_1> rah ya un mec qui dit "nothing beats thai girls!"
+< roooony_1> et je répond "except tourists"
+
+%
+
+<herlock> ya personne qui s'y connait en filtre pour aquarium
+<herlock> ?
+<twolife> en filtre procmail et maildrop pas de problème, par contre je ne connaît pas "aquarium" /o\
+
+%
+
+<fredoule> mmmh, supernatural, 24 ou heroes
+<fredoule> le choix est dur
+ allez, un peu de pr0n pour ne pas avoir à faire de choix
+
+%
+
+<Roooooony> ya uen chanson de tori amos ou elle dit "between the boy and the beast"
+<Roooooony> impossible de s'empecher de penser à zdra
+
+%
+
+* herlock (n=herlock@*****) a rejoint #ci
+<herlock> monde de merde
+<cassidy> bonjour bigon
+
+%
+
+pfff j'aurais du aller à ce cantus
+<herlock_> j'aurais du me buter
+<istaz> herlock_: bigonnerie detected
+<herlock_> nan je veux pas prendre dans le cul
+<herlock_> juste me saouler
+
+%
+
+<dnz_> OMG j'ai gerber ds la salle de bain et j'ai raté mon coup
+<dnz_> j'en ai mis partout
+<istaz> o.O
+<dnz_> je m'en souviens pas
+
+%
+
+<remz> hier. j'ai un vague souvenir d'avoir airer à poile dans le cercle
+
+%
+
+<Roooooony> je suis un bon champion des geules de bois pénibles et pathétique au moins guildwars ne me juge pas. et les gens savent pas que je suis en calbute et que je pue quand je suis sur teamspeak
+
+%
+
+<cassidy> istaz: ta première nuit échangiste, t'as regardé ?
+<istaz> c'est une question piege?
+<cassidy> ...
+
+%
+
+* borix (i=www-data@2001:6a8:1080:500:0:0:0:2) a rejoint #ci
+<Roooooony> cachez tous vos mots de passes! bori est là!
+
+%
+
+* ren0 a expulsé tarkan de #gay_friends (ren0)
+<ren0> c'est pas pour les arabes homophobes!
+<Burton_> hahaha
+* tarkan (n=tarkan@238.165-242-81.adsl-dyn.isp.belgacom.be) a rejoint #gay_friends
+<ren0> tarkan, je te préviens à la premire remarque homophobe je te ban!
+<tarkan> je n ai jamais rien dis d homophobe moi...
+<herlock> ah oauis ? 
+* ren0 met un ban sur *!*n=tarkan@*.165-242-81.adsl-dyn.isp.belgacom.be
+<herlock> <tarkan> Y a des des gays ici
+* ren0 a expulsé tarkan de #gay_friends (ren0)
+<ren0> non mais y en marre
+<herlock> s'il est intelligent il change son id ^^
+<ren0> ouais ben alors je ban son ip
+<herlock> pas besoin je pense :)
+<herlock> on parle de tarkan hein ;-)
+
+%
+
+<twolife> ha tien on est vendredi... \o/ ça fait 2 semaines sans alcool \o/
+
+%
+
+<twolife> bon c'est dommage pour mes études, mais j'ai un heroes à regarder là
+
+%
+
+<istaz> oh mon dieu, la bete imonde est revenue
+<cassidy> bien vu
+<fred2kboulot> le lapin ?
+<istaz> fred2kboulot: oui, l'horrible créature qui vis dans ses propres déjections
+<cassidy> istaz: bigon ? :D
+
+%
+
+<herlock> j'dois être en forme pour enculer Doignon
+<twolife> y en a qui ont essayé, on les a jamais revus
+
+%
+
+<Roooooony> vivement que la série veronica mars se casse la geule qu'elle se recycle dans le porno!
+
+%
+
+<Burton__> hahaha anorak qui bosse asm me demande "Burton on peut jouer avec n'importe quel registre, on risque pas de planter le pc?"
+<Anora> c'est pas drôle, on se moque pas de l'ignorance des gens
+
+%
+
+<Anora> je suce
+<cassidy> on sait
+
+%
+
+Wow dit :
+tain y a mon chat qui a chié dans mon pc (qui est ouvert pour des raisons d'aération)... c'est la première fois qu'un truc pareil m'arrive... O_o
+Wow dit :
+j'ai nettoyé mais ça pue encore... je peux plus rester ici, je vais aller dormir =)
+
+%
+
+<twolife> vous savez.. moi et le folklore... /o\
+
+%
+
+Bram: arg si je penche la tête en arrière je peux me carresser les fesses avec mes cheveux x_x (enfin le haut)
+
+%
+
+<twolife> youpie ma mère rentre saoul !
+<twolife> à mon tour de me moquer !
+
+%
+
+[15:41:45] <Bram> arg
+[15:41:46] <Bram> putain
+[15:41:49] <Bram> j'ai une série de mini jeu
+[15:41:51] <Bram> super stressant
+[15:41:55] <Bram> t'as 4sec pr réussir chauqe foi
+[15:42:03] <herlock> pas pour moi ça 
+[15:42:09] <Bram> http://www.armorgames.com/games/foursecondfirestorm_popup.html
+[15:42:11] <Bram> allé énerve toi
+[15:42:11] <herlock> suis déjà assez stresser 
+[15:42:13] <herlock> nooooooooon
+[15:42:14] <herlock> j'irai pas !
+[15:42:17] <Bram> si !
+[15:42:25] <Bram> http://www.armorgames.com/games/foursecondfirestorm_popup.html tien des images de nana a poil 
+[15:42:34] <herlock> couillon
+[15:42:36] <herlock> j'ai cliqué 
+
+%
+
+<fred2kboulot> bigon> anorak n'est pas trop dilaté ?
+<bigon> juste eclaté
+
+%
+
+<Roooooony> cassidy ethyl n'est pas mal.
+
+%
+
+* iceman vend le numéro d'une fille de 15 ans (elle en parait 17-18)
+<iceman> les enchères commencent à une blanche
+<Fred2k3g> Ça me fait penser qu'il y a 3 gamines biélorusses en vacances dans ma rue
+<iceman> bon dernier appel pour le numéro de la petite
+<cassidy> allez Fred2k3g, on sait que tu le veux
+<Fred2k3g> 2 blanches
+<iceman> très mignonne, beau sourire, un petit côté espiègle qui n'a pas été pour me déplaire quand je l'ai dragouillée
+<iceman> elle croyait que j'avais 26 ans ^_^
+<iceman> bon, 2 blanches pour fred
+<iceman> 3 blanches, qqun?
+<iceman> 2 blanches une fois
+<iceman> 2 blanches pour fred deux fois
+<iceman> bigon: Burton__: ren0_: Moms-: personne à 3 blanches?
+<iceman> bon
+<iceman> 2 blanches pour fred trois fois
+<iceman> et adjugé !
+<Fred2k3g> \o/
+<iceman> Fred2k3g: je te fille le numéro de la petite Camille en privé
+
+%
+
+15:10 < fred2kboulot> cool je viens de voir qu'il y avait playboy TV dans les chaînes de liveTV de mobistar
+15:18 < fred2kboulot> Sporza diffuse en direct le Tour de France sur Mobistar
+15:26 < istaz> et quoi c'est de la bonne qualité la tv par gsm??
+15:27 < fred2kboulot> étant donné la taille de l'écran, ce n'est pas nécessaire d'avoir une qualité tip top
+15:27 < fred2kboulot> enfin vu qu'il y a playboyTV je pourrai me pogner plus facilement dans les chiottes du bureau
+
+%
+
+<johnny-guitare_> chier la porte ouverte
+<johnny-guitare_> pisser dans la douche en chantant
+<johnny-guitare_> ramener une vielle pute de 50 balais et la payer en lui donnant des objets de ta soeur ou de ton père
+<johnny-guitare_> prendre de l'héroine au petit dej
+<johnny-guitare_> Pfiouu tout ça me donne envie de passer un week end seul chez moi
+
+%
+
+<iceman> ils devraient sortir de chez eux et essayer de se chopper de la vraie chatte
+<iceman> moi c'est ce que je fais
+
+%
+
+<istaz_> Burton_: je m'étais couché tot, j'ai pas dormi une seule minute ajd \o/
+
+%
+
+<fredoule> ah oui souhaite bon anif à K²
+<rony_> toi et ton barbecue d'homosexuel
+<iceman> les absents ont tort
+<iceman> tu es absent
+<iceman> tu as tort
+<iceman> cqfd
+<rony_> ah la grande classe fêter ses 1an au bbq de pizzahu
+<rony_> bon je vai aller me manger des tartines.
+<iceman> ouais à minuit ce sont les 1 ans des K²
+
+%
+
+<fromthehole> aidez moi je me fais chiiiieeeerrr
+<fredoule2k> mets ton poing dans de la mayonnaise puis dans ton anus
+
+%
+
+<cassidy>   /* be very anal about the color format */
+<cassidy>  ça c'est un beau commentaire
+<iceman> gni?
+<cassidy> vla iceman qui highlight sur anal
+<iceman> merde, capé
+<iceman> capté
+<cassidy> c'est un commentaire qui traine dans le code où je bosse :p
+<fred2kboulot> c'est pour le brown theme ???
+<cassidy> ...
+
+%
+
+<istaz> JE SUIS UNE GROSSE MERDE
+<herlock__> pourquoi ?
+<istaz> travail de merde a remettre a 17h, encore loin d'avoir fini
+<istaz> et ca fait 4 jours que j'essaye de bosser sur ce truc mais que je ne fous rien
+<istaz> no comment
+<herlock__> ouais vu mon état d'avancement dans mon étude, je ne dirai rein
+<herlock__> rien*
+<herlock__> sauf que 17h c'est y a 4 minutes quoi
+
+%
+
+<Nawak> maudite soit la personne qui a modifié mes paramètres de connexion au NO,
+ ça fait un an que mon PC démarre avec une image d'un travelo qui enlève son froc
+<Nawak> comme je pige rien aux commandes nux je sais même pas l'enlever
+
+%
+
+< BramCI> le toit de la jefke c'est très bien, j'ai déjà essayé avec herlock
+* herlock confirme
+
+%
+
+< twolife> le pire : j'ai aucun client ftp graphique qui supporte le tls dans debian, résultat j'utilise filezilla avec wine
+
+%
+
+je suis saoul je fais des faites de frappe (tarkan @ 28 Oct 2007 00:47)
+
+%
+
+* GigoCI a tjrs détesté les TD
+
+%
+
+<LaVerge> j'aime la merde ;)
+
+%
+
+<rony-wrk> le libre manque vraiment de graphistes.
+<Exhibistionniste> rony-wrk p-ê qu'ils ont des graphistes super forts mais ils utilisent le gimp
+
+%
+
+23:06 <@twolife> ça va chier
+23:07 < dnz_> twodeath: oui monsieur j'ai bcp d'amour moi j'ai une femme qui m'aime tres bcp
+23:07 -!- twodeath was kicked from #ci by twolife [je t'avais prévenu]
+23:08 -!- twodeath [n=3vie@host-212-68-234-136.brutele.be] has joined #ci
+23:08 < twodeath> t'as rien prévenu du tout, fasciste!
+23:08 < dnz_> <twolife> ça va chier
+23:08 < dnz_> c'etait ca la prevention
+23:09 < twodeath> dnz_: ca ne me concerne pas forcément. On voit que c'est pas toi qui le nettoie le matin.
+
+%
+
+[apres la st-v]
+<Nawak> quand je suis rentré je sais pas pk mais j'ai fini tout le stock de bière qu'il me restait dans mon frigo
+<Nawak> j'étais plus saoul à ce point-là pourtant :/
+<cassidy> ahaha
+<cassidy> seul ?
+<Nawak> ben oui, comme un vieux pochtron
+<Nawak> je me réveille ce matin et je vois les cadavres de 9 bouteilles de blanche et 3 bouteilles de kriek par terre
+
+%
+
+<staz__> fred2kboulot: pour une petite orgie on aurait peut etre du inviter les bleuettes de pharma
+<cassidy> staz__: qui a dit qu'il y avait besoin de bleuettes ?
+<fred2kboulot> clair un trou c'est un trou
+<fred2kboulot> et comme dirait cassidy, "on l'a tous fait"
+<rony-wrk> le coming out de fred2kboulot en direct.
+
+%
+
+<twodeath> mouais pas convaincu, a la st-v si tu me donnais un bic j'etais surement assez saoul pour me le mettre dans le cul, mais j'aurais jamais eu le reflexe d'ecrire avec, encore moins sur quelqu'un :p
+
+%
+
+<iceman> je suis pas une de ces tapettes qui recrachent moi
+<iceman> j'avale
+
+%
+
+<rony-wrk> staz__: non mais j'ai un coup de bar
+<cassidy> encore un irish ?
+
+%
+
+<twolife> pour un autre cours je devais faire des recherches sur la carte d'identité électronique, j'ai donc fait des slides à ce propos
+<cassidy> tu peux parler du package de bigon !
+<twolife> ha ben non, ça va dissuadé les gens de faire du libre.. "un pote de l'autre alcoolique qui fait des packages pour un truc aussi important que la beID, c'est vraiment nimporte quoi le libre"
+<cassidy> surtout que le pote en question est encore plus alcoolique que le dit alcoolique
+<twolife> aussi
+
+%
+
+<twolife> mouhahahhahahahahhahahbhahahhahahahahahahahhahha
+<istaz_> twolife: ?
+<twolife> istaz_: je me suis fais contrôler par les flics :o
+<istaz_> twolife: pendant que tu conduisait bourré?
+<twolife> "bonjours, vous avez consommer de l'aclcoll"
+<twolife> moi : "oui"
+<twolife> moi "il y a longtemps"
+<twolife> flic "please define longtemps"
+<twolife> moi :"j'ai bu 2 bières il y a 2 heures"
+<istaz_> comme ca en anglais?
+<istaz_> et quoi il y avait une fete ou j'etais pas au courant ou tu t'es pochtronné au cerk?
+<twolife> flic (après un instant de réflection) " ok, continuer votre route"
+<istaz_> tu as pas du souffler?
+<twolife> il y avait mon frère 100m derrière moi, a qui il ont juste fait "ok allez-y"
+* twodeath (i=www-data@cercleinfo-pc1.ulb.ac.be) has joined #ci
+<twolife> j'ai rien du faire
+<twolife> c'est ke bonheur
+<twolife> complètement déchirer à 2
+<twolife> ne vous inquieter pas braves gens, la police veille
+<twodeath> HAHA
+<twolife> putain j'en ris encore aux larmes
+<istaz_> ha vous etiez ensemble quand tu t'es fais controler?
+<istaz_> les freres de l'alcool !
+* twodeath has quit ("CGI:IRC (EOF)")
+* twodeath (n=3vie@host-212-68-234-136.brutele.be) has joined #ci
+<twodeath> starsky et hutch, lalalala
+<twodeath> la police d'uccle est formidable.
+
+%
+
+<cassidy> 2h43 du mat et Géraldine joue tjs à guitar hero...
+
+%
+
+<gigoCI_> en meme temps ça vous fera du porn tous les soir pour pas un bal !!
+<gigoCI_> balle
+<herlock_> gigoCI_: oui je suis assez fan de ce genre de brol
+
+%
+
+[21:57] <fred2kmobile> Je suis au floris en train de boire une absinthe
+[21:58] <bigon> fred2kmobile: un nerds alcoolo bravo /o\
+[21:58] <fred2kmobile> Payé pas le boulot
+[22:04] <Willoww> c'est bon l'absinthe??
+
+%
+
+<rony-wrk> gigoCI je suis en train de faire des efforts au boulot pour etre gentil avec les gens qui font de la merde car on m'a reproché d'etre agressif quand les gens faisaient des conneries
+
+%
+
+<twolife> c'est de la merde, je retourne sous windows
+
+%
+
+[13:34] <rony-wrk2> en plus ajd il y avait un mec de 85pige avec un cancer de la gorge qui parlait comme un robot en appuiant sur sa gorge et qui imitait un skieur avec ses deux cannes au milieu de l'établissement
+[13:35] <rony-wrk2> j'ai du m'enfuire au toilette pour rire et je pense que sugus a taché son calson
+
+%
+
+<ren0_> qqun a la s02 de prison break?
+<twolife> non, les copies de sauvegardes non autorisées c'est Mal
+
+%
+
+< twolife> je suis définitivement grillé... gérald "alors le cercle est fermé ? tu ne peux pas aller boire des boires ? c'est bien tu seras productif cet aprem"
+
+%
+
+11:01 < Cy-Souillon> Il est 11 du mat, je suis saoule et je danse toute seule de la tektonic devant mon pc, mon casque sur les oreilles ....
+
+%
+
+<********>jeu sui 2 kinè alor escuse mon ortograf
+<********>Je suis du CI, alors excuse mon président
+
+%
+
+<Cy-Souillon> a chaque fois que j ouvre irc, y'a une 50 aine de messages d erreurs qui s ouvrent pour dire que telle écriture est pas reconnue ou jsais pas trop quoi ...
+<Cy-Souillon> Cest super casse couille
+<Cy-Souillon> Hé ! on m'écoute oui !?
+<anorak> haha
+<anorak> "Erreur 457 : utilisatrice trop conne"
+
+%
+
+<Nawak> ben écoute je me suis déjà branlé devant tellement de hentai avec des persos de FF1
+ que je peux bien jouer au jeu pour savoir qui sont tous ces gens xD
+
+%
+
+<Nawak> +Roooooony : moi je crois que je vais commencer par Scout
+<fredoule> non, c'est Roooooony qui doit commencer par le Scout :D
+<Roooooony> +fredoule idiot
+
+%
+
+<herlock> ben celui de roggeman est énorme
+
+%
+
+17:57 < Cy-Souillon> J ai deja fait une revue gay trash ... Donc j'ai tout vu...
+
+%
+
+[17:57] <Cy-Souillon> moi ca me dérange pas de détourer des bites . . .
+[17:57] <Cy-Souillon> :-O
+
+%
+
+ <BarCI> "Chaudard fais plus de bruit que Bozzo" (twix)
+
+%
+
+09:26 < fred2kboulot> wéééé vive le printemps
+09:26 < fred2kboulot> j'ai passé tout le trajet jusqu'au bureau à mater
+
+%
+
+[13:56] <rony-wrk> ah voila Anorak_
+[13:56] <cassidy> ça suce
+
+%
+
+<bigon> le 408 c'est pas la semaine prochaine ?
+<dnz_> bigon: non
+<bigon> hahhhhaaaaaa
+<ren0> héhé ça fait longtemps que bigon nous avait pas gratifié d'un haaaaaaaaa
+
+%
+
+<twolife_> hulmilier cassidy a mariokart est presque aussi plaisant que de l'humilier physiquement
+<cassidy> ... ...
+
+%
+
+<twolife> +putain j'ai plus d'quarius....
+<dnz_> +j'avais lu de loin je n'ai plus d'anus
+
+%
+
+<BramCI> istaz: et ton mémoire ça avance :D ?
+<BramCI> * Vous avez été expulsé de #ci par istaz (istaz)
+
+%
+
+14:19 < Marc1> est ce que le refus de manger de l'arabe est considéré comme 
+               raciste?
+14:21 < Marc1> un arabe est toujours halal car il mang pas de porc
+14:21 < Marc1> donc les arabes peuvent se manger entre eux
+14:22 < Marc1> Par contre les crhétiens peuvent manger du porc. Ils ne sont 
+               donc pas Halal et donc non comestible pour les arabes
+14:26 < Marc1> Remarque: Les chrétiens mangent le corps du christ pour 
+               s'approprier ses vertus comme dans le vrai cannibalisme. Jesus 
+               etait Juif. Les chrétiens preferent donc la viande Hébraique.
+
+%
+
+* fredoule déteste se réveiller avec son haut depyjama à la place de son patnalon
+
+%
+
+<fred2kboulot> le consulat us s'est fait canarder
+<fred2kboulot> al collabora a revendiqué l'attentat
+
+%
+
+<BramCI> roh je sens mon penis gonfler, je décommente petit à petit un main remplie d'assert() et aucun ne m'engueule, je suis surpuissant \o/
+
+%
+
+<iceman> ahah istaz_ tu es enfermé dans une maison avec que des gens qui font leur mémoire ?
+<iceman> et vous êtes filmés 24h/24 ? vous passerez bientôt à la télé?
+<iceman> "vont-ils terminer leur mémoire à temps? Staz va-t-il télécharger le jeu qui les mènera tous à leur perte?"
+<iceman> "vous le saurez en regardant le prochain épisode de ... Thesis shmesis !"
+<iceman> "demain regardez la tentative d'empoisonnement au sushis faites par un traître embarqué dans l'aventure pour essayer de les faire échouer"
+<iceman> "heureusement pour istaz_, son immunité naturelle contre les sushis lui permettra sûrement de gagner quelques jours sur ses compères d'infortune, obligés de taper sur les WC"
+<fredoule> si vous voulez que istaz_ reste à l'unif, envoyez un sms
+
+%
+
+<herlock> demain j'aurai mal au cul :'(
+
+%
+
+<bigon> sodomie?
+<fred2kboulot> fortune !
+
+%
+
+--> hannes_ (i=hdebondt@igwe18.vub.ac.be) a rejoint #ci
+<hannes_> bonjour tout le monde
+<hannes_> comment cava sur le ulb? je suis du VUB de Infogroep
+<hannes_> j'ai une question pour vous. qui est le "president" ou quelq'un d'autre
+<herlock> hannes_: c'est Hawaii, aka François Petit
+<herlock> si t'as besoin de le contacter le mieux est le téléphone car il répond pas tjrs aux emails et il ne parle pas un mot de flamand :p
+<CerkBot> Heil Hitler ! o/
+<herlock> CerkBot: -_-
+<hannes_> hmm.. je pense que CerkBot m'aime.. :P
+--- ChanServ donne le statut opérateur de canal à cassidy
+ cassidy met un ban sur *!*n=PircBot@*.214-65-87.adsl-dyn.isp.belgacom.be
+<-- cassidy a kické CerkBot de #ci (cassidy)
+
+%
+
+<Nawak_> mais j'ai tant d'animes à regarder, tant de mangas à lire, tant de jeux à finir et tant de kleenex à remplir
+
+%
+
+<Iceman_> BramCI_: je t'emmerde, je dois terminer mon mémoire
+<BramCI_> ouai je sais ^^
+<Iceman_> ensuite j'aurai une vie remplie de folie et d'aventures
+<BramCI_> s/et d'aventures/sexuelles
+* Iceman_ est parti ("À bientôt pour de nouvelles folies sexuelles (rooooh BramCI_!)")
+<cassidy> c'est le genre de truc qu'on évite de faire qd on est également sur plein de chans "sérieux" :p
+
+%
+
+* staz_espagne (n=5808f8be@cercleinfo-pc1.ulb.ac.be) a rejoint #ci
+<bigon> staz_espagne, j'ai une bonne blague pour toi
+<staz_espagne> gluck c'est cassé une cheville ?
+
+%
+
+<twolife> pffffffffffff
+<cassidy> twolife: alors, on a encore été une merde ?
+<twolife> cassidy: si peu, si peu
+<twolife> je n'en ressort certainement pas grandi, mais je ne me suis pas humilier => bonne soirée
+
+%
+
+<Zdra> bigon: ah, je me souviens pk je t'ai branlé, tu me trouvais méga sexy sur mon avatar du forum :D
+<ren0-work> O_o
+<cassidy> wtf?
+
+%
+
+* cassidy est encore saoul
+<cassidy> ahah, je revois les logs irc d'hier soir
+<cassidy> <sjoerd> 02:10:36> we might be blind drunk in the office now..
+<cassidy> <sjoerd> 02:12:24> it turns out that when cassidy gets drunk he draws cocks on whiteboards
+
+%
+
+<ronyboy> ahah sur l'ordinateur familial (pas le mien) dans l'historique d'IE il y a www.bigsausagepizza.com
+
+%
+
+<LaVerge> tain gcc qui compile, jme grille les genoux
+<istaz_> LaVerge: c'est connu gentoo rend sterile
+<LaVerge> istaz_,  super, j'aurai pas de pension alimentaire à payer
+
+%
+
+<cassidy> alors ces d-tubes ?
+<istaz_> "quand ca sera documenté"
+<istaz_> on va pouvoir commencer a bosser dessus un peu serieusement
+<istaz_> (enfin je vu que bram veut pas se mouiller)
+<BramCI> je bosserais dessus quand y aura une vrai documentation :o
+<cassidy> vous avez qu'à venir sur #telepathy posez des questions
+<cassidy> je serai payer pour y répondre :p
+<BramCI> "hello, explan me how it's work in details please"
+<BramCI> cassidy: ah oui interdit de répondre "va voir l'exemple"
+
+%
+
+<twolife> hell0w0rld
+<twolife> rhaaaaaa
+<twolife> la 2eme moitié de mon passwd en clair sur irc :p
+<twolife> xchat de merde qui switch de tab sans prévenir
+<BramCI> et hop une fortune o/
+
+%
+
+<istaz_> cassidy: tu as vraiment des heures de travail honteuse
+<cassidy> istaz_: il est 10h
+<istaz_> ouais justement
+<ren0-w0rk> istaz_: tu n'as pas d'heures de travail..
+<fred2kboulot> istaz_, c'est un peu l'hopital qui se moque de la charité
+<istaz_> cassidy: je suis reveillé depuis 6h moi :p
+<ren0-w0rk> wé et t'as passé ton temps sur fukung ou 4chan, bravo
+<cassidy> istaz_: en attendant moi je travaille !
+<istaz_> ren0-w0rk: je fais plus 4chan
+<istaz_> bon puisque vous me jugez de tout facon je vais me boire une blanche
+
+%
+
+<cassidy> bigon-wrk: il parait que les gays ont un pouvoir d'achat supérieur !
+<bigon-wrk> y parrait
+<cassidy> bigon-wrk: salaud de richard !
+<marcou> par contre il y a plus de sida chez eux. Il y a une justice
+<marcou> j ai un humour fabuleux non?
+
+%
+
+<Anorak-wrk> Sugus danse nu sur son bureau
+<BramCI_> pics or it didn't happend !
+
+%
+
+<Johnny-Wrk> J'ia envie que tu me fouettes comme une chienne car j'ai été vilain !
+<Johnny-Wrk> oups trompé de fenêtre :(
+
+%
+
+13:56 - Out: Julien-wrk :n=c14be4fc@cercleinfo-pc1.ulb.ac.be: quits ["CGI:IRC"]
+13:57 - gigo-work: tiens ca ne sent plus mauvais d'un coup
+
+%
+
+<fred2kmobile> Damn. Je regardais tranquillement dans le train les pics du mtsm quand ma banquette se remplit
+<ren0> "aujourd hui en prenant le train de je me suis assis a coté d'un type pervers qui mattait des photos d'etudiantes nues et qui m'a souris. VDM."
+
+%
+
+[09:08] <JohnnyFortish> j'ai voulu faire la journée sans irc au boulot aujourd'hui
+[09:08] <JohnnyFortish> j'ai tenu 37 minutes /o\
+
+%
+
+<cassidy> et pour ceux qui aurait raté cette magnifique phrase:
+<cassidy> [09:23] * twolife a repris connaissance à 5h30, dans sa baignoire, l'eau était un peu froide
+
+%
+
+* istaz a l'impression d'avoir casser un serveur du travail o.O
+* Zdra est parti (Read error: 110 (Connection timed out))
+* cassidy est parti (Read error: 110 (Connection timed out))
+
+%
+
+<cassidy> elle a vraiment ete hackee ds tous les sens cette Wii
+<Bram> c'est la maureene des consoles
+
+%
+
+<gigo-work> "on avait dit à mag de ne pas aller à l'océade quand elle a ses règles" 
+<gigo-work> http://portfolio.lesoir.be/main.php?g2_view=core.DownloadItem&g2_itemId=423740&g2_serialNumber=2
+
+%
+
+<deluxe> my, my, my ! cassidy tu ressemble à Kujovic le copain de Kway un peu non ?
+
+%
+
+<rony> tien ethyl tu as acheté quoi pour 180boules chez ikea?
+<ethyl> rony: j'ai acheté des bols, grandes/petites assiettes, couverts, casserole, passoire, couteau de cuisine, sets de table, lampe 160cm de hauteur, serviettes, ...
+<ethyl> j'ai sué comme un fou
+<ethyl> et j'aimerais encore bien m'acheter quelques plantes :p
+<ren0-w0rk> ethyl: et des napperons aussi, espèce de pédale? Vide donc quelques canettes de bières
+ et laisse les trainer sur le sol de ton appart, ça te ramènera peut etre tes couilles!
+
+%
+
+<ren0-w0rk> raaah quand je vois les goldens que je démoule comme si de rien n'était, je me dis que je devrais faire attention à chaque fois que je m'assied qu'il n'y ait pas une bouteille sur ma chaise, je ne le remarquerais peut être meme pas
+
+%
+
+[Iceman] bon je vais avoir une couchsurfeuse cette semaine
+[Iceman] si elle arrive le 14 ça va me faire chier
+[Iceman] je vais pas vouloir rester avec elle, je vais toujours vouloir tripoter mon engin
+// 14 == arrivage N900
+
+%
+
+<gigo-chm> le thème est sensé être un élément central que les gens interprètent comme ils veulent
+<Kway_home> ok vous savez quoi, allez BIEN VOUS FAIRE FOUTRE! VOUS PIGEZ RIEN!
+: Quit: Kway_home (n=geraldin@cpc1-cmbg15-2-0-cust833.5-4.cable.virginmedia.com) ["Ex-Chat"]
+<gigo-chm> héhé parfait cassidy aura une super soirée :)
+
+%
+
+<twodeath_> Bram: Je dois apprendre l'allemand en deux aprem. J'aurais du aller au cours.
+
+%
+
+<Zdra> Hm... un spam sur Skype me propose un diplome... je devrais peut-etre accepter
+
+%
+
+<ren0-w0rk> bigon: c'est des français c'est pas grave. C'est un peu comme l'élevage en batterie : on se dit que c'est pas joli et que c'est cruel, mais bon au final c'est que des animaux
+
+%
+
+<Johnny-Wrk> faut que j'arrête de me toucher les couilles au boulot. J'ai des poils de bite sur mon bureau"
+
+%
+
+* rony-g1 (~AndChat@188.188.100.14) a rejoint #CI
+<rony-g1> Gogogogo gooooolden time!
+
+%
+
+<gigo-work> bon allez je me tire
+<gigo-work> direction mon char d'assaut
+<gigo-work> ne sortez pas dans bruxelles durant la prochaine heure!
+<Bram> ça risque pas /o\
+
+%
+
+<cassidy> je retaperais plutot le pc fixe et foutre windows dessus alors
+
+%
+
+<Johnny-Wrk> je peux avoir l'url de /ci/?
+
+%
+
+15:36 @<cassidy> cette histoire de Pastis et ronhiiiii me donne l'image du vieux riche qui invente de jeunes garçons chez lui pour un gouter 
+                 anniversaire afin d'abuser d'eux par la suite
+15:36  <burton> cassidy: :D
+15:40  <Johnny-Wrk> cassidy:  hahaha :D
+15:41  <Johnny-Wrk> (je rigolais pour rony et les gouters d'anniversaire)
+15:42  <burton> je serais pas étonné que ronhiiiii arrive demain matin sur irc d'excellente humeur et que crevette aie la gueule de bois, mal au 
+                trou de balle et demande ce qui s'est passé
+15:43  <ronhiiiii> bande de con
+15:43  <ronhiiiii> si vous ne voulez pas venir à mon wonderland vous n'etes pas obligé!
+15:44  <ronhiiiii> je suis un peu le michel jackson du Ci
+
+%
+
+<burton> rony_: dernière fois que t'es venu avec du ricard pour la faire pas tard twolife a fini au td :D
+<Johnny-Wrk> burton:  en disant "derniere fois que ______ twolife a fini au td" tu peux prouver n'importe quoi. C'est comme dire "la terre a continue de tourner"
+<twolife> Johnny-Wrk: sombre connard
+<Johnny-Wrk> "Derniere fois que j'ai fait du sport.... Twolife a fini au TD !!" "Derniere fois que j'ai mange des pates.... Twolife a fini au TD !!" "Derniere fois que j'ai pris l'avion.... Twolife a fini au TD !!" "Derniere fois que j'ai vu un chameau.... Twolife a fini au TD !!" "Derniere fois que j'ai fait une coloscopie.... Twolife a fini au TD !!"
+
+%
+
+14:35 @<staz> dnz_: twolife-hero yay pequet!
+14:36  <twolife-hero> Non je ne me laisserai pas avoir 
+14:36 @<staz> allez je te les offres
+14:37  <twolife-hero> J espère bien, j ai pas un bal sur moi :o
+14:38  <twolife-hero> Bon allé je bouge... à tout de suite /o\
+
+%
+
+<Ribosome> l'exam de language se passe ds le bureau du prof mais il est ou son bureau?
+
+%
+
+<rony_> avec cette sensation afreuse qd tu passes ta langue sur le trou
+
+%
+
+14:17  <cassidy> twolife, toi si supporter du curling te donnerait une excuse pour te saouler t'irais au championnat du monde
+
+%
+
+00:28  <twolife> Bram: /me sera dynamique de 20h03 à 20h42, apres /me sera ivre
+00:28  <Bram> twolife: t'es déjà dans ma liste des gens sur qui je peux pas compter sauf si je t'ai en face irl et que je te crie dessus/te 
+              passe de l'alcool :D
+00:29  <twolife> cai tres sympa, j'apprécie...
+00:29  <Bram> je me trompe :D ?
+00:29  * twolife va bouder dans son lit, a demain les gens
+00:31  <Bram> hum, c'était pas très malin à dire en faite
+
+%
+
+// la femme de Toooone va accoucher
+<cassidy> c'est quand la date de release théorique ?
+<thx1138> au départ c'était mi-août, mais c'est avancé à ... imminent
+<cassidy> release early, release often
+
+%
+
+<twolife> Johnny-Wrk: l'effet "je ne marche pas droit et renverse mon caca sur mon froc comme le dernier des gars bourré" m'a trahi
+
+%
+
+<twolife> mmm on vient de me proposer de rentrer... "te gene pas c'est pas la première fois que que quelqu'un de l'IT rentre chez lui parce qu'il est trop bourré" je pense que je vais accepter
+
+%
+
+ <bigon> non j'ai pas highlight sur bite
+
+%
+
+<bigon> mmm machine avec 48G de ram
+<twolife> bigon: c'est peu :p
+<bigon> et 16proc
+<bigon> :
+<bigon> :p
+<bigon> Intel(R) Xeon(R) CPU           E5630  @ 2.53GHz
+* bigon vient d'avoir un orgasme
+
+%
+
+<Johnny-Wrk> Bragon = un mix entre Bram et bigon ?
+<Johnny-Wrk> L'homme qui sort encore 2x moins de chez lui!
+<thx1138> Johnny-Wrk: sûrement une créature légendaire, un peu comme un griffon, mais en plus débile ;)
+<ren0-w0rk> thx1138: en fait je suis de plus en plus convaincu que Bram est un spambot qui s'est éveillé à la conscience et que le gars qu'on voit parfois au cerk est un robot de téléprésence qui pour une raison inconnue s'est vu affublé de cheveux longs
+<Johnny-Wrk> probablement que les cheveux longs servent d'antenne pour le contrôle à distance
+<Johnny-Wrk> je suis exactement du même avis que ren0-w0rk, je ne serais pas surpris de me ballader en amérique du sud et de tomber sur une autre instance du BramBot cherchant à dominer le monde
+<ren0-w0rk> Johnny-Wrk: j'ai hate du jour ou je poserai une question a un des avatars de bram et ou il répondra : "Cette requête dépasse les capacités de cette occurence de moi même"
+
+%
+
+11:10  <thx1138> baptême ... penser ... deux mots qui ne vont pas dans la même phrase
+11:10  <cassidy> comme Véronique
+11:10  <twolife> cassidy: --> []
+11:10  <cassidy> ...
+11:10  <thx1138> ???
+11:10  <fred2kboulot> ???
+11:10  <cassidy> sans son... Véronique ...
+11:10  <burton> thx1138: sans son, veronique sanson
+11:10  <fred2kboulot> ...
+11:11  <cassidy> oui bon...
+11:11  <thx1138> ...
+11:11  * cassidy retourne coder
+
+%

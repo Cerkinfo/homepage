@@ -1,0 +1,29 @@
+<style>
+	.title { font-weight: bold;}
+	li.event {list-style: none; padding-left:1em;}
+	ul.events {
+		border:1px solid;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		padding:8px;
+		margin: 1em;
+		margin-right: 15%;
+		margin-left: 15%;
+		background-color:#e6e6e6;
+		text-align:center;
+	
+	}
+	h4 { margin:0px; font-size:1.5em}
+	a.eventlink {text-decoration:none;}
+</style>
+<ul class="events">
+<h4> Prochains événements du Cercle: <a href="http://www.google.com/calendar/feeds/vahmatom646cf3jdnn65t843p8%40group.calendar.google.com/public/basic" /><img src="imgs/feed-icon-small.png" alt="rss"></a></h4>
+{%for event in items %}
+	<li class="event">
+	<span class="title">{{event.title}}</span>
+	<span class="date"><a class="eventlink" href="{{event.link}}">{{event.start_date}}</a></span>
+        {%if event.location%}<span class="location">  {{event.location}}</span>{% endif%}
+	</li>
+{%endfor%}
+</ul>
