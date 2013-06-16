@@ -1,6 +1,7 @@
 # Django settings for bl project.
 
-DEBUG = False
+#DEBUG = True
+DEBUG = False 
 TEMPLATE_DEBUG = True
 
 ADMINS = (
@@ -18,8 +19,6 @@ DATABASES = {
         'USER': 'phpBB',                      # Not used with sqlite3.
         'PASSWORD': 'jwcTmHmfEdfj',                  # Not used with sqlite3.
 #        'NAME': 'test',                      # Or path to database file if using sqlite3.
-#        'USER': 'phpBB',                      # Not used with sqlite3.
-#        'PASSWORD': 'jwcTmHmfEdfj',                  # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
     }
