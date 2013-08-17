@@ -1,7 +1,7 @@
 # Django settings for bl project.
 
 #DEBUG = True
-DEBUG = False 
+DEBUG = False
 TEMPLATE_DEBUG = True
 
 ADMINS = (
