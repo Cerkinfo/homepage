@@ -1,0 +1,6 @@
+Django==1.2
+django-ckeditor==4.0.2
+django-extensions==0.5
+django-flatblocks==0.4.0
+django-frontendadmin==0.4
+django-reversion==1.5.1

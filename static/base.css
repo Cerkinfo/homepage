@@ -1,0 +1,173 @@
+/* p {color:red;text-align:center;} */
+a:link {color:BlueViolet}
+a:visited {color:DarkMagenta}
+
+#pvlist a{ text-decoration:none}
+#pvlist a:hover{ text-decoration:underline}
+
+/* remove border from linked img */
+a img {
+      border: none;
+}
+
+#logo
+{
+    float:right;
+}
+
+#topmenu {
+    float:right;
+}
+
+#topmenu ul
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+#topmenu li
+{
+    float:left;
+}
+#topmenu a:link, #topmenu a:visited
+{
+    display:block;
+    width:120px;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#DD73B6;
+    text-align:center;
+    padding:4px;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+#topmenu a:hover, #topmenu:active
+{
+    background-color:BlueViolet;
+}
+
+#content {
+    padding-top: 30px;
+    margin-left: 180px;
+}
+
+
+#sidebar {
+    float: left;
+    clear: left;
+    padding-right:30px;
+}
+
+#sidebar .menu{
+    background-color:#EED0EE;
+    border-style:dotted;
+    border-width:1px;
+    margin-top:10px;
+}
+
+#sidebar h3
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align:center;
+    background-color: #B55CB5;
+    color: WhiteSmoke;
+    text-transform:uppercase;
+}
+
+#sidebar ul
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    list-style-type:square;
+    padding-left:15px;
+}
+
+#sidebar .menu a
+{
+    color:black;
+    display:block;
+    text-decoration:none;
+/*    text-align:center;*/
+}
+
+#sidebar .menu a:hover
+{
+    background-color:#DD73B6;
+}
+
+.news h2{
+    background-color:lightgrey;
+}
+
+p.newsheader{
+    font-size:75%
+}
+
+/*#id_url{
+    visibility:hidden;
+    display:none;
+}*/
+
+    a.frontendadmin:link,
+    a.frontendadmin:visited{
+        color: #c00;
+        font-size: 0.95em;
+    }
+
+    a.frontendadmin_add:link,
+    a.frontendadmin_add:visited{
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .frontendadmin_container_hover{
+        background-color: #FEF9D7;
+    }
+
+    fieldset.frontendadmin{
+        margin: 30px 0;
+        padding: 10px 10px;
+        border: 1px dotted #6498CC;
+        font-size: 12px;
+    }
+
+    fieldset.frontendadmin p{
+        background-color: #E7EFF6;
+        margin: 0 0 5px 0;
+        padding: 5px 10px;
+    }
+
+    fieldset.frontendadmin legend{
+        font-weight: bold;
+        font-size: 1.2em;
+        color: #333;
+    }
+
+    fieldset.frontendadmin label{
+        font-size: 0.9em;
+        font-weight: bold;
+        color: #333;
+        display: block;
+        margin-bottom: 3px;
+    }
+
+    fieldset.frontendadmin input[type=text],
+    fieldset.frontendadmin input[type=password],
+    fieldset.frontendadmin textarea{
+        width: 99%;
+    }
+
+    fieldset.frontendadmin ul.errorlist{
+    	margin: 0;
+    	padding: 0;
+    	list-style: none;
+   	}
+
+    fieldset.frontendadmin ul.errorlist li{
+        margin: 5px 0 2px 0;
+        padding: 5px 10px;
+        color: White;
+        background-color: #F74A4A;
+    }

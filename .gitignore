@@ -1,1 +1,5 @@
 *.pyc
+/db.sql
+/gcaltemplatetag
+/media/
+/phpbb

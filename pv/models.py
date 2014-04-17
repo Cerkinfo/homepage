@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- #
 from django.db import models
 
-YEAR = '201011'
+YEAR = '201314'
 
 REUNION_TYPES = (
         ('', 'Réunion normale'),

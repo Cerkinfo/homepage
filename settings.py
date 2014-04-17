@@ -1,24 +1,21 @@
-# Django settings for bl project.
+import os
 
-#DEBUG = True
-DEBUG = False
-TEMPLATE_DEBUG = True
-
+DEBUG = True
+TEMPLATE_DEBUG = DEBUG
+ALLOWED_HOSTS = ['*']
 ADMINS = (
-    ('Olivier', 'olivier@lethanh.be')
-    # ('Your Name', 'your_email@domain.com'),
+    ('Nikita', 'nikita.marchant@gmail.com')
 )
-
-ROOT = "/home/_WWW/www.cerkinfo.be/"
 MANAGERS = ADMINS
+
+ROOT_DIR = os.path.dirname(__file__)
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'cerkinfo',                      # Or path to database file if using sqlite3.
-        'USER': 'phpBB',                      # Not used with sqlite3.
-        'PASSWORD': 'jwcTmHmfEdfj',                  # Not used with sqlite3.
-#        'NAME': 'test',                      # Or path to database file if using sqlite3.
+        'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+        'NAME': 'db.sql',                      # Or path to database file if using sqlite3.
+        'USER': '',                      # Not used with sqlite3.
+        'PASSWORD': '',                  # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
     }
@@ -49,13 +46,14 @@ USE_L10N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = ROOT + 'ci.media/'
+MEDIA_ROOT = os.path.join(ROOT_DIR,'media')
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
 # Examples: "http://media.lawrence.com", "http://example.com/media/"
-MEDIA_URL = 'http://www.cerkinfo.be/media/'
-
+MEDIA_URL = '/media/'
+STATIC_URL = '/static/'
+STATIC_DIR = os.path.join(ROOT_DIR, "static")
 CKEDITOR_MEDIA_PREFIX = "/media/ckeditor/"
 CKEDITOR_UPLOAD_PATH = MEDIA_ROOT + "uploads/"
 CKEDITOR_UPLOAD_PREFIX = "/media/uploads/"
@@ -79,19 +77,12 @@ CKEDITOR_CONFIGS = {
 	},
 }
 
-# URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
-# trailing slash.
-# Examples: "http://foo.com/media/", "/media/".
 ADMIN_MEDIA_PREFIX = '/media/admin/'
-
-# Make this unique, and don't share it with anybody.
 SECRET_KEY = 'bho0r&^^y-p2r8h1t5-w&$++!8q=58456dhx&%u@7gy_f-ti)l'
 
-# List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
     'django.template.loaders.app_directories.Loader',
-#     'django.template.loaders.eggs.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -107,10 +98,7 @@ MIDDLEWARE_CLASSES = (
 ROOT_URLCONF = 'ci.urls'
 
 TEMPLATE_DIRS = (
-    ROOT + "ci/templates",
-    # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
+    os.path.join(ROOT_DIR,"templates"),
 )
 
 INSTALLED_APPS = (
@@ -118,10 +106,7 @@ INSTALLED_APPS = (
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
-#    'django.contrib.messages',
-    # Uncomment the next line to enable the admin:
     'django.contrib.admin',
-    # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
     'django.contrib.flatpages',
     'reversion',
@@ -154,7 +139,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 
 
 # URL to your phpbb board
-PHPBB_URL = "http://cerkinfo.be/phpbb/"
+PHPBB_URL = "//cerkinfo.be/phpbb/"
 
 # URL to your phpbb board
 PHPBB_SMILIES_URL = PHPBB_URL + "images/smilies/"

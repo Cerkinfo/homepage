@@ -19,6 +19,7 @@ all_dict = {
 
 urlpatterns = patterns(None,
     (r'^(?P<object_id>\d+)/$', 'django.views.generic.list_detail.object_detail', fortune_dict),
+    (r'^(?P<object_id>\d+)/CI.txt/$', 'django.views.generic.list_detail.object_list', txt_dict),
     (r'^CI.txt/$', 'django.views.generic.list_detail.object_list', txt_dict),
     (r'^$', 'django.views.generic.list_detail.object_list', all_dict),
     )
